@@ -106,7 +106,7 @@ if __name__ == '__main__':
         with open(HTML_FILE, 'w') as f:
             f.write(generate_html(actual_width, actual_height))
 
-        port = 8080
+        port = 9999
         server_address = ('', port)
         httpd = ThreadedHTTPServer(server_address, StreamingHandler)
         print(f"Serving at http://(AllIps):{port}/ at resolution: {actual_width}x{actual_height}")
