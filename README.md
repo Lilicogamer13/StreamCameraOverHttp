@@ -1,6 +1,6 @@
 # StreamCameraOverHttp
 -----------------------
-## Permits You To Stream Your Camera Over Http
+## Stream Your Camera Over Http
 -----------------------
 # How To Use:
 ### First:
