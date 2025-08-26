@@ -5,7 +5,8 @@
 # How To Use:
 ### First:
 ```
-pip install -r requirements.txt
+píp install opencv_python
+pip install pillow
 ```
 ### Second And Last:
 ```
