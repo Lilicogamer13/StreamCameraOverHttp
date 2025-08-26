@@ -5,8 +5,8 @@
 # How To Use:
 ### First:
 ```
-píp install opencv_python
-pip install pillow
+python3 -m píp install opencv_python
+python3 -m pip install pillow
 ```
 ### Second And Last:
 ```
