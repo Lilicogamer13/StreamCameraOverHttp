@@ -1,3 +1,5 @@
+### YES I KNOW, its broken on opensuse, i will make a opensuse version when i get a computer to install linux on
+-----------------------
 # StreamCameraOverHttp
 -----------------------
 ## Stream Your Camera Over Http
