@@ -1,7 +1,5 @@
 ### Broken on OpenSuse, doesnt work on windows
 -----------------------
-# StreamCameraOverHttp
------------------------
 ## Stream Your Camera Over Http
 -----------------------
 # How To Use:
@@ -15,7 +13,7 @@ or
 sudo apt install python3-opencv
 sudo apt install python3-pillow
 ```
-### Second And Last:
+### And:
 ```
 python3 main.py
 ```
